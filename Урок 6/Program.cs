@@ -33,7 +33,7 @@ else
     Console.WriteLine("[" + string.Join(", ", arrResult) + "]");
 
     for (int i = 0; i < n - k; i++)
-        arrResult[i] = arrFirst[k + i];
+        arrResult[i] = arrFirst[k - i];
 
     Console.WriteLine("[" + string.Join(", ", arrResult) + "]");
 }
