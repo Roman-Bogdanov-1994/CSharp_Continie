@@ -1,0 +1,15 @@
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\bin\Debug\net6.0\Задача 40.exe
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\bin\Debug\net6.0\Задача 40.deps.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\bin\Debug\net6.0\Задача 40.runtimeconfig.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\bin\Debug\net6.0\Задача 40.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\bin\Debug\net6.0\Задача 40.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.csproj.AssemblyReference.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.AssemblyInfoInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.AssemblyInfo.cs
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.csproj.CoreCompileInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\refint\Задача 40.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\Задача 40.genruntimeconfig.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 40\obj\Debug\net6.0\ref\Задача 40.dll
