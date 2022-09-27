@@ -1,0 +1,15 @@
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.csproj.AssemblyReference.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.AssemblyInfoInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.AssemblyInfo.cs
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.csproj.CoreCompileInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\bin\Debug\net6.0\Урок 6.exe
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\bin\Debug\net6.0\Урок 6.deps.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\bin\Debug\net6.0\Урок 6.runtimeconfig.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\bin\Debug\net6.0\Урок 6.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\bin\Debug\net6.0\Урок 6.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\refint\Урок 6.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\Урок 6.genruntimeconfig.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Урок 6\obj\Debug\net6.0\ref\Урок 6.dll
