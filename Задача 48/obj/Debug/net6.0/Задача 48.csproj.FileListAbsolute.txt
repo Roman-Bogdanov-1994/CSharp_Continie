@@ -1,0 +1,15 @@
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\bin\Debug\net6.0\Задача 48.exe
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\bin\Debug\net6.0\Задача 48.deps.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\bin\Debug\net6.0\Задача 48.runtimeconfig.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\bin\Debug\net6.0\Задача 48.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\bin\Debug\net6.0\Задача 48.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.csproj.AssemblyReference.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.AssemblyInfoInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.AssemblyInfo.cs
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.csproj.CoreCompileInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\refint\Задача 48.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\Задача 48.genruntimeconfig.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 48\obj\Debug\net6.0\ref\Задача 48.dll
