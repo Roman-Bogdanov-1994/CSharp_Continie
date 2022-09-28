@@ -1,0 +1,15 @@
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.csproj.AssemblyReference.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.AssemblyInfoInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.AssemblyInfo.cs
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.csproj.CoreCompileInputs.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\bin\Debug\net6.0\Задача 51.exe
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\bin\Debug\net6.0\Задача 51.deps.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\bin\Debug\net6.0\Задача 51.runtimeconfig.json
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\bin\Debug\net6.0\Задача 51.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\bin\Debug\net6.0\Задача 51.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\refint\Задача 51.dll
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.pdb
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\Задача 51.genruntimeconfig.cache
+C:\Users\brv16\OneDrive\Рабочий стол\Новая папка (2)\Задача 51\obj\Debug\net6.0\ref\Задача 51.dll
